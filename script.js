@@ -11,7 +11,7 @@ function documentReady()
 
 	var characterCount			= 0;
 
-	var characterSpeed			= 500;
+	var characterSpeed			= 350;
 
 	pushCurrentTextChrachters();
 
